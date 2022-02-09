@@ -2,7 +2,7 @@
 
 ---------------------------
 
-Ciekawy projekt pod tworzenie backupu i wysyłanie go na zewnątrz zaszyfrowany
+Ciekawy projekt pod tworzenie backupu pod systemem Linux i wysyłanie go na zewnątrz zaszyfrowanego
 
 
 Instrukcja konfiguracji - [YT](https://docs.linuxserver.io/images/docker-duplicati)
